@@ -152,9 +152,9 @@ li i{
 }
 @media (max-width : 450px) {
     input {
-       width: 225px;
+       width: 180px;
     }   
     #imp-btn button{
-        width :275px;
+        width :225px;
     }
 }
