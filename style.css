@@ -150,3 +150,11 @@ li i{
         margin: 5px;
     }
 }
+@media (max-width : 450px) {
+    input {
+       width: 225px;
+    }   
+    #imp-btn button{
+        width :275px;
+    }
+}
