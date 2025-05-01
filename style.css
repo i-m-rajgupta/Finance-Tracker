@@ -149,6 +149,9 @@ li i{
     .box *{
         margin: 5px;
     }
+    .chart{
+        height: 250px !important;
+    }
 }
 @media (max-width : 450px) {
     input {
