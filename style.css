@@ -138,6 +138,9 @@ li i{
 }
 
 @media (max-width : 650px) {
+     .chart{
+        display:none !important;
+    }
     .box{
         grid-template-rows : repeat(2,1fr) ;
         grid-template-columns: repeat(1,1fr);
@@ -148,9 +151,6 @@ li i{
     }
     .box *{
         margin: 5px;
-    }
-    .chart{
-        display:none !important;
     }
 }
 @media (max-width : 450px) {
